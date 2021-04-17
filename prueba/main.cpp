@@ -14,6 +14,7 @@ int main()
     cout << "Ingrese otro numero: ";
     cin >> b;
     cout << "La suma de " << a << " + " << b << " es: " << a+b;
+    cout << "La multiplicacion de " << a << " X " << b << " es: " << a*b;
     return 0;
     //blablablablablabla
     //Esto es un comentario
